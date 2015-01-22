@@ -12,5 +12,7 @@ package ihm;
 public class NewClass {
     public void test() {
         System.out.println("Maiys");
+        System.out.println("Oumar");
+        System.out.println("Lada");
     }
 }
